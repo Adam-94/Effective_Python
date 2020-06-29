@@ -1,0 +1,11 @@
+Python Enhancement Proposal #8, or otherwise known as PEP8,
+is the style guide for how to format Python code. 
+
+The full guide on how to use the PEP8 standard is available at
+https://www.python.org/dev/peps/pep-0008/
+
+Thing to Remember
+
+* Always follow PEP8 style when writing Python code.
+* Sharing a common style with the larger Python community facilitates collaboration with others. 
+* Using a consistent style makes it easiser to modify you on code later.
